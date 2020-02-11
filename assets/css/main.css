@@ -3154,6 +3154,10 @@ input, select, textarea {
 		min-height: 28rem;
 	}
 
+	/* .content1 {
+		padding-left: 2rem !important;
+	} */
+
 		.post > .content {
 			padding: 5rem 4rem 5rem 0;
 			width: 60%;
